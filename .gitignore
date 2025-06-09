@@ -1,0 +1,11 @@
+*pyc
+logs/
+*.csv
+*.json
+*.html
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
